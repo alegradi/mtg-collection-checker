@@ -38,3 +38,7 @@ coverage/
 .env
 .env.local
 .env.*.local
+
+# Project specific
+reports/*
+!reports/.gitkeep
